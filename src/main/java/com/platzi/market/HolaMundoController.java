@@ -10,6 +10,6 @@ public class HolaMundoController {
 
     @GetMapping ("/Hola")
     public String saludar (){
-        return "Nunca pares de aprender";
+        return "Tu vida es tu vida conócela mientras la tengas tú eres maravilloso los dioses esperan para deleitarse en tí.";
     }
 }
